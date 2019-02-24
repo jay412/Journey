@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "903636255083",
+    "firebase_url": "https://journey-74f2b.firebaseio.com",
+    "project_id": "journey-74f2b",
+    "storage_bucket": "journey-74f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903636255083:android:d0a44e5bc2648c92",
+        "android_client_info": {
+          "package_name": "chau.jordan.journey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903636255083-mffl12uottvufa629re7ecnsktokdh0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tGn3T1n77lnBx1UdK8XKxRZbQNHbwUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
